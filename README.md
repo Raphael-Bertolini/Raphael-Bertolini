@@ -1,18 +1,21 @@
 ## Welcome to my profile! 😁
 
-<br>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="JS" height="30" width="40">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" height="30" width="40">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" height="30" width="40">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" height="30" width="40">
+<div>
+   <a href="https://github.com/Raphael-Bertolini" target="_blank">
+       <img height="180" src="https://github-readme-stats.vercel.app/api?username=Raphael-Bertolini&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+   </a>
+   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raphael-Bertolini&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
-
+    
+<div style="display: inline-block"><br>
+  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+</div>
 <br>
-
-<div align="center">
+ 
+<div> 
   <a href="https://www.linkedin.com/in/raphael-d-678004116" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+      <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </div>
